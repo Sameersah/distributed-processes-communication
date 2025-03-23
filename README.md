@@ -1,6 +1,6 @@
 # gRPC Shared Memory Coordination System (Mini 2)
 
-## 📌 Overview
+##  Overview
 
 This project is part of CMPE 273's Mini 2 assignment. It demonstrates a distributed system consisting of multiple processes communicating across multiple machines using **gRPC** and **shared memory**, designed in an **overlay tree structure**.
 
@@ -13,7 +13,7 @@ The system features:
 
 ---
 
-## 🧠 Concepts Explored
+##  Concepts Explored
 
 - Shared Memory (POSIX `shm_open`, `mmap`)
 - gRPC Inter-Process and Inter-Machine Communication
@@ -24,7 +24,7 @@ The system features:
 
 ---
 
-## 🧱 Architecture
+##  Architecture
 
 ### ➤ Process Layout
 
@@ -44,7 +44,7 @@ C   D
 
 ---
 
-### ➤ Technology Stack
+###  Technology Stack
 
 | Component      | Technology |
 |----------------|------------|
@@ -57,7 +57,7 @@ C   D
 
 ---
 
-## ⚙️ Setup & Installation
+## ⚙ Setup & Installation
 
 ### 1. Clone the Repo
 
